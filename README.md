@@ -18,7 +18,7 @@ Este projeto é o resultado do Trabalho de Conclusão de Curso do curso Técnico
 - [Ana Beatriz da Silva](https://github.com/canelo3).
 - [Isabella Passos Rubira](https://github.com/isabeba).
 - [Luiz Eduardo Ribeiro Chio](https://github.com/LuizEduardoooo).
-- [Thiago Figueredo](https://github.com/thiagofjau).
+- [Maria Eduarda Florentino dos Santos](https://github.com/MariaEduarda016).
 
 ### **Orientador**
 *   Prof. Jefferson Roger Moreira
