@@ -15,7 +15,7 @@ Este projeto foi desenvolvido utilizando um conjunto de tecnologias robustas par
 Este projeto é o resultado do Trabalho de Conclusão de Curso do curso Técnico em Desenvolvimento de Sistemas, apresentado à ETEC "Rodrigues de Abreu" em 2025.
 
 ### **Equipe de Desenvolvimento**
-- [Thiago Figueredo](https://github.com/thiagofjau).
+- [Ana Beatriz da Silva](https://github.com/canelo3).
 - [Isabella Passos Rubira](https://github.com/isabeba).
 - [Luiz Eduardo Ribeiro Chio](https://github.com/LuizEduardoooo).
 - [Thiago Figueredo](https://github.com/thiagofjau).
