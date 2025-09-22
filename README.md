@@ -16,5 +16,5 @@ Uma breve descrição sobre o seu Trabalho de Conclusão de Curso. Qual problema
 
 ## 📄 Documentação
 Se você tiver a documentação completa do seu TCC em um arquivo, pode linká-la aqui.
-https://github.com/isabeba/CadernoDigital.git
+Documents/TCC ZUIANI/TCC_TEÓRICO.docx
 
