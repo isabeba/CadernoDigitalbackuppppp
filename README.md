@@ -16,7 +16,7 @@ Este projeto é o resultado do Trabalho de Conclusão de Curso do curso Técnico
 
 ### **Equipe de Desenvolvimento**
 - [Thiago Figueredo](https://github.com/thiagofjau).
--  [Thiago Figueredo](https://github.com/thiagofjau).
+-  [Isabella Passos Rubira](https://github.com/isabeba).
 - [Thiago Figueredo](https://github.com/thiagofjau).
 - [Thiago Figueredo](https://github.com/thiagofjau).
 
