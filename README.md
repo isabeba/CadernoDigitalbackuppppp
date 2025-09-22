@@ -1,9 +1,7 @@
-# Título do seu TCC
+# CADERNO DIGITAL
 
-**Autor:** [Seu Nome Completo]
-**Orientador:** [Nome do seu Orientador]
-**Instituição:** [Nome da sua Universidade ou Faculdade]
-**Ano:** [Ano de conclusão]
+**Autores:** Ana Beatriz, Isabella Passos, Luiz Eduardo, Maria Eduarda
+**Instituição:** ETEC Rodrigues de Abreu
 
 ## 📝 Descrição
 Uma breve descrição sobre o seu Trabalho de Conclusão de Curso. Qual problema ele resolve? Qual a área de estudo? Qual o objetivo principal?
