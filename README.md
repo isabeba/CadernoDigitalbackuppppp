@@ -1,18 +1,28 @@
-# CADERNO DIGITAL
+# Caderno Digital
 
-**Autores:** Ana Beatriz, Isabella Passos, Luiz Eduardo, Maria Eduarda.
-
-**Instituição:** ETEC Rodrigues de Abreu.
-
-## 📝 Descrição
-Uma breve descrição sobre o seu Trabalho de Conclusão de Curso. Qual problema ele resolve? Qual a área de estudo? Qual o objetivo principal?
+## 📝 Descrição do Projeto
+O **Caderno Digital** é uma plataforma inovadora desenvolvida para auxiliar estudantes a aprimorar a autonomia e a organização nos estudos. O projeto centraliza recursos essenciais em um único ambiente, oferecendo funcionalidades como agenda de estudos personalizada e simulados preparatórios para vestibulares e exames. O objetivo principal é otimizar o método de estudo dos usuários, proporcionando uma experiência de aprendizado mais eficiente e planejada.
 
 ## 💻 Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando um conjunto de tecnologias robustas para garantir um sistema dinâmico e seguro:
+*   **Front-end:** HTML5, CSS3 e JavaScript
+*   **Back-end:** PHP
+*   **Banco de Dados:** MySQL
 
-- Linguagem: JavaScript, HTML, JSON, CSS, PHP.
-- Framework:  React
-- Banco de Dados: MySQL
-- Outras ferramentas: Figma
+## 🎓 Trabalho de Conclusão de Curso (TCC)
+Este projeto é o resultado do Trabalho de Conclusão de Curso do curso Técnico em Desenvolvimento de Sistemas, apresentado à ETEC "Rodrigues de Abreu" em 2025.
+
+### **Equipe de Desenvolvimento**
+*   Ana Beatriz da Silva
+*   Isabella Passos Rubira
+*   Luiz Eduardo Ribeiro Chio
+*   Maria Eduarda Florentino dos Santos
+
+### **Orientador**
+*   Prof. Jefferson Roger Moreira
+
+---
+**Instituição:** Centro Estadual de Educação Tecnológica "Paula Souza" — ETEC "Rodrigues de Abreu", Bauru.
 
 ## 📄 Documentação
 Se você tiver a documentação completa do seu TCC em um arquivo, pode linká-la aqui.
